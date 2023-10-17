@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\cokbasitoyun\cokbasitoyun\obj\Debug\cokbasitoyun.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\cokbasitoyun\cokbasitoyun\obj\Debug\cokbasitoyun.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\cokbasitoyun\cokbasitoyun\obj\Debug\cokbasitoyun.Form1.resources
+C:\Users\User\source\repos\cokbasitoyun\cokbasitoyun\obj\Debug\cokbasitoyun.Properties.Resources.resources
+C:\Users\User\source\repos\cokbasitoyun\cokbasitoyun\obj\Debug\cokbasitoyun.csproj.GenerateResource.cache
+C:\Users\User\source\repos\cokbasitoyun\cokbasitoyun\obj\Debug\cokbasitoyun.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\cokbasitoyun\cokbasitoyun\bin\Debug\cokbasitoyun.exe.config
+C:\Users\User\source\repos\cokbasitoyun\cokbasitoyun\bin\Debug\cokbasitoyun.exe
+C:\Users\User\source\repos\cokbasitoyun\cokbasitoyun\bin\Debug\cokbasitoyun.pdb
+C:\Users\User\source\repos\cokbasitoyun\cokbasitoyun\obj\Debug\cokbasitoyun.exe
+C:\Users\User\source\repos\cokbasitoyun\cokbasitoyun\obj\Debug\cokbasitoyun.pdb
